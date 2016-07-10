@@ -1,4 +1,13 @@
 
+listing belongs_to :host
+reservation belongs_to :guest
+review belongs_to :guest 
+
+
+
+
+
+
 
 # Flatiron-bnb: Associations
 
